@@ -13,5 +13,5 @@ function carburado(){
 
 function narutosad(){
 
-    window.open('https://youtu.be/1ZgdYri3H4Q?t=12');
+    window.open('https://youtu.be/DvYiTwNgQgE?t=4');
 }
