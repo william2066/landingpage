@@ -1,0 +1,48 @@
+body {
+    background: rgb(72, 72, 233);
+
+
+}
+
+header {
+    color:rgb(0, 0, 0);
+    text-align: center;
+
+}
+h1.headerh1 {
+    font-size: 36px;
+}
+
+.section {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 520px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.973);
+    text-align: center;
+}
+
+
+
+
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+
+
+
+#container {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.botao{
+    display: flex;
+    justify-content: space-between;
+    margin: 2em;
+    
+}
